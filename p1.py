@@ -1,1 +1,3 @@
-print("Hello")
+num1 = 1
+num2 = 67
+print(num1 + num2)
